@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://twitter.com/login
+HostUrl=https://twitter.com/login/error?username_or_email=asdsad&redirect_after_login=%2F
